@@ -15,11 +15,11 @@ The dataset contains demographic information, symptoms, clinical measurements, e
 ## Questions Explored
 
 1. Does heart disease severity differ between males and females?
-2: Which chest pain types are most strongly associated with heart disease?
-3: Is exercise-induced angina related to heart disease severity?
-4: How does heart disease severity vary by ST segment slope?
-5: Which clinical measurements appear most strongly associated with heart disease severity?
-6: Which numeric variables exhibit the strongest relationships with heart disease severity?
+2. Which chest pain types are most strongly associated with heart disease?
+3. Is exercise-induced angina related to heart disease severity?
+4. How does heart disease severity vary by ST segment slope?
+5. Which clinical measurements appear most strongly associated with heart disease severity?
+6. Which numeric variables exhibit the strongest relationships with heart disease severity?
 
 ## Key Findings
 
