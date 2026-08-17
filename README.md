@@ -1,4 +1,4 @@
-# uci-heart-disease-eda-Show-more-lines
+# uci-heart-disease-eda
 
 # Exploratory Data Analysis of the UCI Heart Disease Dataset
 
